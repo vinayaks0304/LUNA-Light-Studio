@@ -1,0 +1,62 @@
+# Python and desktop builds
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.build/
+*.spec
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Android / Gradle / local SDK paths
+.gradle/
+**/.gradle/
+**/build/
+local.properties
+android/local.properties
+*.apk
+*.aab
+*.apks
+*.keystore
+*.jks
+*.key
+*.pem
+*.p12
+*.mobileprovision
+captures/
+
+# IDE and OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+*~
+*.swp
+
+# Controller-specific and private data
+ble_capture/
+led_capture/
+*.btsnoop
+btsnoop_hci*
+*.pcap
+*.pcapng
+*.log
+*.sqlite
+*.db
+mrstar-source/
+mrstar-source.tar.gz
+*.backup
+
+# Gradle wrapper bootstrap output: generated locally by android/setup-wrapper.sh
+android/gradlew
+android/gradlew.bat
+android/gradle/wrapper/gradle-wrapper.jar

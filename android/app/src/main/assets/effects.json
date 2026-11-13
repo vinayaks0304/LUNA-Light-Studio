@@ -1,0 +1,292 @@
+[
+  {
+    "id": 1,
+    "name": "Automatic loop",
+    "category": "Basic"
+  },
+  {
+    "id": 2,
+    "name": "Symphony",
+    "category": "Basic"
+  },
+  {
+    "id": 3,
+    "name": "Colorful energy",
+    "category": "Basic"
+  },
+  {
+    "id": 4,
+    "name": "Colorful jumps",
+    "category": "Basic"
+  },
+  {
+    "id": 7,
+    "name": "7 colors strobe",
+    "category": "Basic"
+  },
+  {
+    "id": 10,
+    "name": "7 colors gradient",
+    "category": "Basic"
+  },
+  {
+    "id": 26,
+    "name": "Colorful fluttering",
+    "category": "Basic"
+  },
+  {
+    "id": 27,
+    "name": "Red-green-blue fluttering",
+    "category": "Basic"
+  },
+  {
+    "id": 29,
+    "name": "Colorful brushing",
+    "category": "Basic"
+  },
+  {
+    "id": 30,
+    "name": "Red-green-blue color brushing",
+    "category": "Basic"
+  },
+  {
+    "id": 31,
+    "name": "Yellow-cyan-purple color brushing",
+    "category": "Basic"
+  },
+  {
+    "id": 32,
+    "name": "Colorful brush color brush closed-pull",
+    "category": "Basic"
+  },
+  {
+    "id": 35,
+    "name": "7 colors opening-closing",
+    "category": "Opening & closing"
+  },
+  {
+    "id": 36,
+    "name": "Red-green-blue opening-closing",
+    "category": "Opening & closing"
+  },
+  {
+    "id": 37,
+    "name": "Yellow-cyan-purple opening-closes",
+    "category": "Opening & closing"
+  },
+  {
+    "id": 38,
+    "name": "Red opening-closing",
+    "category": "Opening & closing"
+  },
+  {
+    "id": 39,
+    "name": "Green opening-closing",
+    "category": "Opening & closing"
+  },
+  {
+    "id": 40,
+    "name": "Blue opening-closing",
+    "category": "Opening & closing"
+  },
+  {
+    "id": 41,
+    "name": "Yellow opening-closing",
+    "category": "Opening & closing"
+  },
+  {
+    "id": 42,
+    "name": "Cyan opening-closing",
+    "category": "Opening & closing"
+  },
+  {
+    "id": 43,
+    "name": "purple opening-closing",
+    "category": "Opening & closing"
+  },
+  {
+    "id": 44,
+    "name": "White opening-closing",
+    "category": "Opening & closing"
+  },
+  {
+    "id": 45,
+    "name": "7 colors light-dark transition",
+    "category": "Transition"
+  },
+  {
+    "id": 46,
+    "name": "Blue-red-green light-dark transition",
+    "category": "Transition"
+  },
+  {
+    "id": 47,
+    "name": "Violet-green-yellow light-dark transition",
+    "category": "Transition"
+  },
+  {
+    "id": 48,
+    "name": "6 colors light-dark transition red",
+    "category": "Transition"
+  },
+  {
+    "id": 49,
+    "name": "6 colors light-dark transition green",
+    "category": "Transition"
+  },
+  {
+    "id": 50,
+    "name": "6 colors light-dark transition blue",
+    "category": "Transition"
+  },
+  {
+    "id": 51,
+    "name": "6 colors light-dark transition cyan",
+    "category": "Transition"
+  },
+  {
+    "id": 52,
+    "name": "6 colors light-dark transition yellow",
+    "category": "Transition"
+  },
+  {
+    "id": 53,
+    "name": "6 colors light-dark transition purple",
+    "category": "Transition"
+  },
+  {
+    "id": 54,
+    "name": "6 colors light-dark transition white",
+    "category": "Transition"
+  },
+  {
+    "id": 55,
+    "name": "7 colors flowing water",
+    "category": "Running water"
+  },
+  {
+    "id": 56,
+    "name": "Blue-green-red running water",
+    "category": "Running water"
+  },
+  {
+    "id": 57,
+    "name": "Purple-green-yellow running water",
+    "category": "Running water"
+  },
+  {
+    "id": 58,
+    "name": "Red-green running water",
+    "category": "Running water"
+  },
+  {
+    "id": 59,
+    "name": "Green-blue running water",
+    "category": "Running water"
+  },
+  {
+    "id": 60,
+    "name": "Yellow-blue running water",
+    "category": "Running water"
+  },
+  {
+    "id": 61,
+    "name": "Yellow-cyan running water",
+    "category": "Running water"
+  },
+  {
+    "id": 62,
+    "name": "Blue-purple running water",
+    "category": "Running water"
+  },
+  {
+    "id": 76,
+    "name": "7 colors trailing",
+    "category": "Tailing"
+  },
+  {
+    "id": 77,
+    "name": "Red trailing",
+    "category": "Tailing"
+  },
+  {
+    "id": 78,
+    "name": "Green trailing",
+    "category": "Tailing"
+  },
+  {
+    "id": 79,
+    "name": "Blue trailing",
+    "category": "Tailing"
+  },
+  {
+    "id": 80,
+    "name": "Yellow trailing",
+    "category": "Tailing"
+  },
+  {
+    "id": 81,
+    "name": "Cyan tailing",
+    "category": "Tailing"
+  },
+  {
+    "id": 82,
+    "name": "Purple tailing",
+    "category": "Tailing"
+  },
+  {
+    "id": 83,
+    "name": "White trailing",
+    "category": "Tailing"
+  },
+  {
+    "id": 84,
+    "name": "Red running",
+    "category": "Running"
+  },
+  {
+    "id": 85,
+    "name": "Green running",
+    "category": "Running"
+  },
+  {
+    "id": 86,
+    "name": "Blue running",
+    "category": "Running"
+  },
+  {
+    "id": 87,
+    "name": "Yellow running",
+    "category": "Running"
+  },
+  {
+    "id": 88,
+    "name": "Cyan running",
+    "category": "Running"
+  },
+  {
+    "id": 89,
+    "name": "Purple running",
+    "category": "Running"
+  },
+  {
+    "id": 90,
+    "name": "White running",
+    "category": "Running"
+  },
+  {
+    "id": 91,
+    "name": "7 colors running",
+    "category": "Running"
+  },
+  {
+    "id": 92,
+    "name": "Blue-green-red running",
+    "category": "Running"
+  },
+  {
+    "id": 93,
+    "name": "Purple-cyan-yellow running",
+    "category": "Running"
+  }
+]
